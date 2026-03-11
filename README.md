@@ -117,7 +117,7 @@ This project was built as part of a **technical assessment to showcase frontend 
 
 ## 📸 Screenshots
 
-Add your dashboard screenshots here.
+
 
 Example:
 
